@@ -18,3 +18,5 @@ He likes to tip:
 
 
 In the end, John will like to have 2 arrays:
+
+             1. One array containing all the 3 tips
