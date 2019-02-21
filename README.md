@@ -7,3 +7,10 @@ They got bills as thus:
               First Restaurant: $124
               Second Restaurant: $48
               Third Restaurant: $268
+              
+              
+To tip the waiters, fair amount,John created a Simple Tip Calculator.
+
+He likes to tip:
+             20% of the bill when the bill is less than $50.
+             15% of the bill when the bill is between $50 and $200.
